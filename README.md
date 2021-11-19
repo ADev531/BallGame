@@ -4,6 +4,8 @@
 * 안내 : 베타버전입니다. 양해 부탁드립니다. 루아 프로그래밍 언어로 제작되었습니다.
 * 현재 지원되지 않는 버전은 Love Game Engine (http://love2d.org) 를 다운로드하고 .love 게임파일 다운로드한 후 Love Game Engine으로 .love 파일 실행하시면 됩니다.
 
+# Downloads
+
 en-us :
 
 Windows 32bit (End of Support) : https://github.com/sh901soft/BallGame/raw/main/BallGame_Win32.exe
