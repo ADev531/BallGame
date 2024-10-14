@@ -1,8 +1,8 @@
 # Ball Game
-* Notice : Currently this game is beta, and used lua Language.
-* For the currently unsupported version, download the Love Game Engine (http://love2d.org), download the .love game file, and run the .love file with the Love Game Engine.
-* 안내 : 베타버전입니다. 양해 부탁드립니다. 루아 프로그래밍 언어로 제작되었습니다.
-* 현재 지원되지 않는 버전은 Love Game Engine (http://love2d.org) 를 다운로드하고 .love 게임파일 다운로드한 후 Love Game Engine으로 .love 파일 실행하시면 됩니다.
+* Notice : Current status of this game is in beta. Made with Love2D.
+* For the currently unsupported platform, download the Love Game Engine (http://love2d.org), download the .love game file, and run the .love file with the Love Game Engine.
+* 안내 : 베타 버전입니다. 양해 부탁드립니다. Love2D 게임 엔진으로 제작되었습니다.
+* 현재 지원되지 않는 플랫폼은 Love Game Engine (http://love2d.org) 를 다운로드하고 .love 게임파일 다운로드한 후 Love Game Engine으로 .love 파일 실행하시면 됩니다.
 
 # Downloads
 
